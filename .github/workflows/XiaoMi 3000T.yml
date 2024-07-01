@@ -1,4 +1,4 @@
-name: XiaoMi 3000T
+name: xiaomi_mi-router-ax3000t
 
 on:
   repository_dispatch:
@@ -15,7 +15,7 @@ env:
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   TZ: Asia/Shanghai
-  DEVICE: XiaoMi 3000T
+  DEVICE: xiaomi_mi-router-ax3000t
   UPLOAD_OUTPUT: true
 
 jobs:
